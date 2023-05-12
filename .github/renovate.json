@@ -5,7 +5,7 @@
 	"npm": {
 		"packageRules": [
 			{
-				"matchPackagePatterns": ["sqs-consumer", "sqs-producer"],
+				"matchPackagePatterns": ["bullmq"],
 				"enabled": false
 			}
 		]
